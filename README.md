@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 실행 방법
+
+root 디렉토리 이동 후 npm run start
+
+
 ## Available Scripts
 
 In the project directory, you can run:
