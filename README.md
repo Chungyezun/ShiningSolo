@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 실행 방법
 
-root 디렉토리 이동 후 npm run start
+root 디렉토리 이동 후 npm run start (node 설치 필수)
 
 
 ## Available Scripts
